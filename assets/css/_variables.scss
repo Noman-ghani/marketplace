@@ -1,0 +1,254 @@
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-BlackItalic.eot');
+    src: url('~@/assets/fonts/Muli-BlackItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-BlackItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-BlackItalic.woff') format('woff'), url('~@/assets/fonts/Muli-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-Black.eot');
+    src: url('~@/assets/fonts/Muli-Black.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-Black.woff2') format('woff2'), url('~@/assets/fonts/Muli-Black.woff') format('woff'), url('~@/assets/fonts/Muli-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-Bold.eot');
+    src: url('~@/assets/fonts/Muli-Bold.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-Bold.woff2') format('woff2'), url('~@/assets/fonts/Muli-Bold.woff') format('woff'), url('~@/assets/fonts/Muli-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-BoldItalic.eot');
+    src: url('~@/assets/fonts/Muli-BoldItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-BoldItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-BoldItalic.woff') format('woff'), url('~@/assets/fonts/Muli-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-ExtraBoldItalic.eot');
+    src: url('~@/assets/fonts/Muli-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-ExtraBoldItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-ExtraBoldItalic.woff') format('woff'), url('~@/assets/fonts/Muli-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-ExtraBold.eot');
+    src: url('~@/assets/fonts/Muli-ExtraBold.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-ExtraBold.woff2') format('woff2'), url('~@/assets/fonts/Muli-ExtraBold.woff') format('woff'), url('~@/assets/fonts/Muli-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-ExtraLight.eot');
+    src: url('~@/assets/fonts/Muli-ExtraLight.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-ExtraLight.woff2') format('woff2'), url('~@/assets/fonts/Muli-ExtraLight.woff') format('woff'), url('~@/assets/fonts/Muli-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-Italic.eot');
+    src: url('~@/assets/fonts/Muli-Italic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-Italic.woff2') format('woff2'), url('~@/assets/fonts/Muli-Italic.woff') format('woff'), url('~@/assets/fonts/Muli-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-ExtraLightItalic.eot');
+    src: url('~@/assets/fonts/Muli-ExtraLightItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-ExtraLightItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-ExtraLightItalic.woff') format('woff'), url('~@/assets/fonts/Muli-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-Light.eot');
+    src: url('~@/assets/fonts/Muli-Light.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-Light.woff2') format('woff2'), url('~@/assets/fonts/Muli-Light.woff') format('woff'), url('~@/assets/fonts/Muli-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-Regular.eot');
+    src: url('~@/assets/fonts/Muli-Regular.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-Regular.woff2') format('woff2'), url('~@/assets/fonts/Muli-Regular.woff') format('woff'), url('~@/assets/fonts/Muli-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-LightItalic.eot');
+    src: url('~@/assets/fonts/Muli-LightItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-LightItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-LightItalic.woff') format('woff'), url('~@/assets/fonts/Muli-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-SemiBoldItalic.eot');
+    src: url('~@/assets/fonts/Muli-SemiBoldItalic.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-SemiBoldItalic.woff2') format('woff2'), url('~@/assets/fonts/Muli-SemiBoldItalic.woff') format('woff'), url('~@/assets/fonts/Muli-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: url('~@/assets/fonts/Muli-SemiBold.eot');
+    src: url('~@/assets/fonts/Muli-SemiBold.eot?#iefix') format('embedded-opentype'), url('~@/assets/fonts/Muli-SemiBold.woff2') format('woff2'), url('~@/assets/fonts/Muli-SemiBold.woff') format('woff'), url('~@/assets/fonts/Muli-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+body {
+    background: #FFF;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+}
+
+.slide-fade-enter-active {
+    transition: all .3s ease;
+}
+
+.slide-fade-leave-active {
+    transition: all .3s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+    transform: translateX(20px);
+    opacity: 0;
+}
+
+.slide-down-enter-active,
+.slide-down-leave-active {
+    transition: all .3s ease;
+}
+
+.slide-down-enter,
+.slide-down-leave-to {
+    transform: translateY(-10px);
+}
+
+.slide-down-fade-enter-active,
+.slide-down-fade-leave-active {
+    transition: all .3s ease;
+}
+
+.slide-down-fade-enter,
+.slide-down-fade-leave-to {
+    transform: translateY(-10px);
+    opacity: 0;
+}
+
+$body-color: #101928;
+$gray-900: #626262;
+$link-hover-decoration: none;
+$font-family-sans-serif: 'Muli',
+sans-serif;
+$btn-disabled-opacity: 0.1;
+$primary: #0C56C9;
+$link-color: #037aff;
+$card-spacer-x: 2rem;
+$card-spacer-y: 1.5rem;
+$card-border-color: none;
+$card-border-radius: 10px;
+$input-btn-padding-x: .7rem;
+$input-btn-padding-y: .7rem;
+$spinner-width: 1.5rem;
+$spinner-height: 1.5rem;
+$btn-disabled-opacity: .5;
+$input-focus-box-shadow: none;
+$input-font-size: 16px;
+$light-grey:#878c93;
+$input-group-addon-bg: none;
+$form-feedback-icon-valid: none;
+$input-color:#101928;
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+body {
+    background: #FFF;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+    opacity: 0;
+}
+
+.slide-fade-enter-active {
+    transition: all .3s ease;
+}
+
+.slide-fade-leave-active {
+    transition: all .3s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+}
+
+.slide-fade-enter,
+.slide-fade-leave-to {
+    transform: translateX(20px);
+    opacity: 0;
+}
+
+.slide-down-enter-active,
+.slide-down-leave-active {
+    transition: all .3s ease;
+}
+
+.slide-down-enter,
+.slide-down-leave-to {
+    transform: translateY(-10px);
+}
+
+.slide-down-fade-enter-active,
+.slide-down-fade-leave-active {
+    transition: all .3s ease;
+}
+
+.slide-down-fade-enter,
+.slide-down-fade-leave-to {
+    transform: translateY(-10px);
+    opacity: 0;
+}
